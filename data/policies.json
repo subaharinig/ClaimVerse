@@ -1,0 +1,45 @@
+[
+  {
+    "policy_number": "POL101",
+    "policy_limit": 250000,
+    "covered_treatments": [
+      "hospitalization",
+      "surgery",
+      "emergency",
+      "consultation"
+    ],
+    "required_documents": [
+      "invoice",
+      "discharge_summary",
+      "doctor_prescription"
+    ]
+  },
+  {
+    "policy_number": "POL102",
+    "policy_limit": 150000,
+    "covered_treatments": [
+      "hospitalization",
+      "emergency",
+      "diagnostics"
+    ],
+    "required_documents": [
+      "invoice",
+      "diagnostic_report"
+    ]
+  },
+  {
+    "policy_number": "POL103",
+    "policy_limit": 300000,
+    "covered_treatments": [
+      "cardiac",
+      "surgery",
+      "emergency",
+      "hospitalization"
+    ],
+    "required_documents": [
+      "invoice",
+      "surgery_report",
+      "discharge_summary"
+    ]
+  }
+]
